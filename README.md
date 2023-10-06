@@ -70,3 +70,16 @@ Browse and Upload the .wav file and click on Predict button.
 Hence we have successfully converted audio data or speech to digital text data.
 COMPARISION
 Here we can improve the results by testing with other APIs which are available from diffrent third party sources or by applying deep learning approaches.
+
+**1) Home UI**
+
+![1) Home UI](https://github.com/sohel-jagirdar/SpeechRecognition-to-Text/assets/52422511/23c5c7fa-ff6e-40c3-b4dd-7216d45f5135)
+
+**2) send for prediction**
+
+![2) send for prediction](https://github.com/sohel-jagirdar/SpeechRecognition-to-Text/assets/52422511/51b9c39f-4f2b-4ef8-b711-c7bf12794017)
+
+**3) Prediction Output Result**
+
+![3) Prediction Output Result](https://github.com/sohel-jagirdar/SpeechRecognition-to-Text/assets/52422511/780191ff-1524-4b18-a5b8-d5fc761955fb)
+
