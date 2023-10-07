@@ -36,18 +36,6 @@ Installation of this project is pretty easy. Please do follow the following step
 3. Install the necessary packages from requirements.txt file using the command         
 pip install -r requirements.txt
 
-WORKFLOW DIAGRAM
- 
-
-
-
-
-
-
-
-
-
-
 ### IMPLEMENTATION
 1. Project Directory
 This is the folder stucture of this project.
